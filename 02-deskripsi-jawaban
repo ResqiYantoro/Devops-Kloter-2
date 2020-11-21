@@ -1,0 +1,3 @@
+Ansible adalah tool automation yang dimiliki oleh perusahaan yang bergerak dibidang teknologi yaitu RedHat. 
+Ansible adalah perangkat lunak open source yang mengotomatiskan pemasangan software, manajemen konfigurasi, 
+dan beberapa tugas lainnya. Ansible terhubung dengan client remotenya menggunakan ssh.
